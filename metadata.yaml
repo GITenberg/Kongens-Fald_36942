@@ -1,0 +1,28 @@
+_repo: Kongens-Fald_36942
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 36942-h/images/cover_small.jpg
+creator:
+  author:
+    agent_name: Jensen, Johannes V. (Johannes Vilhelm)
+    alias: Jensen, Johannes Vilhelm
+    birthdate: 1873
+    deathdate: 1950
+    gutenberg_agent_id: '38552'
+    url: http://www.gutenberg.org/2009/agents/38552
+description: ''
+gutenberg_issued: '2011-08-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36942'
+language: da
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Denmark -- History -- 1448-1660 -- Fiction'
+- !lcsh 'Christian II, King of Denmark, Norway, and Sweden, 1481-1559 -- Fiction'
+title: Kongens Fald
+url: http://www.gutenberg.org/ebooks/36942
